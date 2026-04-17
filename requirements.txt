@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+# Se for usar transformers do HuggingFace, adicione:
+# torch
+# transformers
